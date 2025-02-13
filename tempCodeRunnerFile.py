@@ -1,0 +1,2 @@
+roberta_tokenizer = AutoTokenizer.from_pretrained(roberta_model_name)
+roberta_model = AutoModelForSequenceClassification.from_pretrained(roberta_model_name)

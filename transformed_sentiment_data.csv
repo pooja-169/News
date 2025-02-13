@@ -1,0 +1,486 @@
+index_number,description,sentiment_labels,sentiment_scores,intensity_scores,clusters
+1,You must login to keep earning daily check-in points,neutral,0.8633385300636292,0.11,0
+2,,neutral,0.6808650493621826,0.13,0
+3,Lifetime,neutral,0.7109432220458984,0.22,0
+4,Expired,neutral,0.755279004573822,0.01,0
+5,Redeemed,neutral,0.821963369846344,0.1,0
+6,Total redeemable TimesPoints,positive,0.5763079524040222,0.55,-1
+7,* TimesPoints expire in 1 year from the day of credit,neutral,0.9097102284431458,-0.0,0
+8,,neutral,0.6808650493621826,0.13,0
+9,"Regular exercise benefits health, yet determining the best time to work out depends on individual preferences and schedules. Morning sessions can enhance metabolism and mood, afternoon workouts improve performance, and evening exercise aids relaxation. Choose a consistent routine that aligns with personal energy levels and fitness goals for optimal results. ",positive,0.7142817974090576,0.7,2
+10,Defending US Open champion Novak Djokovic kept his bid for a record 25th Grand Slam title on track on Wednesday after fellow Serb Laslo Djere retired injured while trailing 6-4 6-4 2-0 in their second-round match. Djokovic had needed five sets to get past Djere in the third round a year ago and it looked as though Arthur Ashe Stadium would see another epic clash between the two as Djere went up a break in the second set.,neutral,0.7826283574104309,0.2,0
+11,"The New Delhi transport department is introducing a new system to simplify the payment of road challans. Violators will receive automated messages containing payment details through SMS and WhatsApp. Additionally, payments can be made via UPI apps such as Bhim and Google Pay, enhancing convenience and increasing governmental revenue. The system is expected to be launched soon.",positive,0.4977033138275146,0.49,1
+12,"Japan will initiate a program in fiscal 2025 to support single women moving from Tokyo to rural areas for marriage. The program will cover travel expenses for matchmaking events and offer financial incentives for relocation. This aims to address the declining number of young women in rural areas, a key concern in Japan's demographic crisis.",neutral,0.8388418555259705,0.13,0
+13,"Israel's large-scale military operation in the occupied West Bank caused 11 Palestinian fatalities, including militants and civilians. The United Nations and Palestinian health ministry reported disruptions to medical services. Amid ongoing Gaza conflict, international voices, including Jordan's monarchy, called for a ceasefire to halt the escalating violence. Israel targeted infrastructure and addressed security concerns, intensifying regional tensions.",negative,0.821409285068512,-0.81,0
+14,"Sajeeb Wazed Joy, son of former Bangladesh Prime Minister Sheikh Hasina, called the death of journalist Rahanuma Sarah an attack on freedom of expression. Sarah, a Gazi TV newsroom editor, was found dead in Hatirjheel lake in Dhaka; initial police suspicion points to suicide, with further investigation pending to establish the cause of her death.",negative,0.576984167098999,-0.57,0
+15,"Babar Azam is once again facing scrutiny after scoring 0 and 22 in the first Test against Bangladesh in Rawalpindi. The hosts lost the match on the final day by 10 wickets due to a dramatic batting collapse. Babar's continued poor form has drawn attention from both fans and critics, raising concerns about his performance.",negative,0.7841461896896362,-0.78,0
+16,"A small boy broke a 3,500-year-old jar at an Israel museum. The jar, from the Bronze Age, was displayed without protective barriers, and the curious child, who went to see what was inside, pulled on it which led to the shattering of jar. The museum has enlisted a conservation specialist for restoration. Last year, an American tourist damaged Roman statues in Jerusalem, stating they were against his religious beliefs.",negative,0.529108464717865,-0.51,0
+17,"Cristiano Ronaldo, at the age of 39, has set an ambitious goal of reaching 1,000 career goals, having already netted 899. In an interview with Rio Ferdinand, he expressed his relentless drive and competitive spirit. Ronaldo highlighted the verifiable nature of his goals, contrasting them with those of past legends. His determination remains undeterred.",positive,0.8131223320960999,0.81,3
+18,"UK ministers plan to extend the indoor smoking ban to outdoor venues, including pub gardens and football stadiums. Prime Minister Keir Starmer, backed by Chris Whitty, believes the health benefits will outweigh the impact on the hospitality sector. Public consultation will determine the final decision. This move aims to contribute to the goal of a smoke-free England by 2030.",neutral,0.7303631901741028,0.24,0
+19,"Heavy rainfall on Thursday morning led to severe waterlogging and traffic congestion in various parts of Delhi. Major routes like MB Road, Rohtak Road, and areas near Saket Metro Station were significantly affected. Commuters faced major delays as vehicles struggled through flooded streets, with some even breaking down, adding to the chaos.",negative,0.7938273549079895,-0.78,0
+20,"India's left-arm spinner Radha Yadav found herself trapped in severe Vadodara flooding, rescued by the NDRF. She shared her ordeal on Instagram, showing footage of submerged areas. Irfan Pathan also advised residents to stay indoors. The India Meteorological Department predicts more heavy rains in the region, signaling that the crisis isn't over yet.",neutral,0.5644710063934326,-0.39,0
+21,"During a rally in Erie, Pennsylvania, Ohio Senator JD Vance condemned the media for overstating an incident involving Donald Trump’s campaign at Arlington National Cemetery, asserting they had proper authorization. Vance also criticized Vice President Kamala Harris for her role in the U.S. military's withdrawal from Afghanistan, further intensifying the political discourse.",neutral,0.5330718159675598,-0.44,0
+22,"Seventy residents of Ahmedabad's Madhumalti Housing Scheme were rescued after severe flooding submerged the area. Despite promises and significant investments since 2017, flooding persists. Efforts to divert stormwater to Singarva lake have failed due to the lake being overwhelmed. Authorities continue to search for lasting solutions while residents remain in distress.",negative,0.7502915263175964,-0.74,0
+23,"India's National Sports Day, celebrated annually on August 29 since being established in 2012, honors hockey legend Major Dhyan Chand. It is also his birth anniversary. The day aims to highlight the value of sports and physical fitness, echoing the Indian government's initiatives to promote a healthier, more active lifestyle.",positive,0.9495726227760316,0.95,-1
+24,"Defending champion Coco Gauff cleaned up early mistakes to beat unseeded German Tatjana Maria 6-4 6-0 in a lopsided second round meeting at the U.S. Open on Wednesday. The American beat Maria in Auckland last year and she held on to the blueprint, roaring back from an error-riddled first set to sweep through the second and close out the affair with a sublime backhand winner.",neutral,0.5896016955375671,0.4,0
+25,"Ohio Senator JD Vance addressed a viral incident at a Valdosta, Georgia donut shop, where his campaign stop became awkward and heavily criticized online. Vance attributed the mishap to the clerk's nervousness due to the large presence of Secret Service agents and media. He also mentioned potential changes to his campaign strategy to prevent similar issues.",neutral,0.5980236530303955,-0.37,0
+26,"Nvidia's latest quarterly report met or exceeded analyst expectations but failed to impress investors. Challenges in producing the new Blackwell chips led to a significant stock decline. Despite these hurdles, the company anticipates substantial revenue from Blackwell in the fourth quarter and continues to see high demand for its existing products. ",neutral,0.4790447354316711,-0.39,-1
+27,"According to a WHO report, European teens' condom use has notably declined, raising the risk of STIs and unplanned pregnancies. The survey exposes significant drops in protected sex among teenagers and highlights socioeconomic disparities. WHO emphasizes comprehensive sexuality education and urges immediate government and health authority action to address these issues.",negative,0.5773091912269592,-0.56,0
+28,"In a historic move, President Masoud Pezeshkian appointed Fatemeh Mohajerani as Iran's new government spokesperson, marking the first time a woman holds this position. Mohajerani, with a Doctorate in Business Administration, brings significant experience from previous roles in education and government. She joins other high-ranking women like Shina Ansari and Farzaneh Sadeq Malvajard.",positive,0.6392092704772949,0.63,2
+29,"In Badlapur, the SIT examining the sexual assault of two nursery students discovered CCTV footage of the suspect. A separate FIR was filed based on the first victim's testimony to reinforce the case. The school had not acted on the parents' initial complaint. Teacher statements were also recorded as the investigation proceeded.",neutral,0.5607567429542542,-0.42,0
+30,"Water supply to Bandra West, Khar West, and Khar Danda in Mumbai's H-West ward will be cut from 10 am to 12 pm on August 30. The interruption is due to works aimed at replacing an old water main pipeline with a new one between Ramdas Naik Marg and Road No. 32.",neutral,0.6765706539154053,-0.29,0
+31,"Umran Malik's swift rise in the IPL led to an India call-up, but he hasn't played for the national team in over a year. Former bowling coach Paras Mhambrey attributes this to Malik's limited red-ball experience, emphasizing the necessity of First-Class cricket in developing a bowler's skills and endurance for sustained success in international cricket.",neutral,0.8724333643913269,0.01,0
+32,"A scheduled call between President Joe Biden and President Xi Jinping is planned, following a meeting between US National Security Adviser Jake Sullivan and Chinese Foreign Minister Wang Yi. Issues such as Taiwan, military tensions, and trade policies were discussed, with a focus on maintaining peace and collaboration in climate change and illicit drug enforcement.",neutral,0.8953699469566345,0.09,0
+33,"The FBI disclosed that Thomas Matthew Crooks, a 20-year-old from Pennsylvania, attempted to assassinate former US President Donald Trump during a rally in Butler. Engaging in detailed planning, Crooks targeted the rally as an opportune event. Trump was grazed by a bullet before Secret Service snipers neutralized the attacker with an AR-style rifle found on the scene.",negative,0.7170433402061462,-0.71,0
+34,"On Thursday morning, heavy rainfall in Delhi resulted in significant waterlogging and traffic congestion across the city. Key areas such as Mehrauli-Badarpur Road and Dhaula Kuan were severely affected, with commuters battling through water-filled streets. The downpour followed a night of continuous rain, thunderstorms, and lightning in the National Capital Region, causing substantial disruption.",negative,0.7632153034210205,-0.75,0
+35,"India is poised to commission its second nuclear-powered submarine, INS Arighat, equipped with nuclear-tipped ballistic missiles. This 112-meter vessel will fortify the nation's strategic deterrence by joining INS Arihant. Defence Minister Rajnath Singh will oversee the ceremony in Visakhapatnam. This move marks a pivotal advancement in India's maritime security framework.",neutral,0.5156511068344116,0.47,1
+36,"During BJP’s 12-hour Bengal bandh, two men were injured in Bhatpara shootings aimed at a BJP youth wing member’s car, leading to eight arrests. Accusations flew between BJP's Arjun Singh and Trinamool's Ichini. Further clashes necessitated police intervention. Major business hubs faced disruptions, causing significant financial losses, but local transport remained largely unaffected.",negative,0.7764489650726318,-0.77,0
+37,"The Hemant Soren government is accused of spying on ex-Jharkhand CM Champai Soren for five months, with elements of phone-tapping and a potential honeytrap. This surveillance involved Special Branch officers, who were detained briefly in Delhi. Champai, feeling sidelined for Hemant Soren, is reportedly set to join the BJP, according to Assam CM Himanta Sarma.",neutral,0.6404765248298645,-0.33,0
+38,"A viral deepfake video falsely shows Virat Kohli criticizing Shubman Gill's potential. The AI-manipulated clip mimics Kohli's voice and expressions, questioning Gill's ability to become a legend. This incident is the second deepfake targeting Kohli this year. Kohli and Gill share a good rapport. Kohli is returning for the Test series against Bangladesh next month.",neutral,0.5589726567268372,-0.35,0
+39,"Sebi has warned investors about fraudulent practices by promoters of SMEs, who artificially inflate stock prices through misleading information and corporate actions, then sell their holdings at high prices, leaving investors with worthless shares. The regulator highlighted recent actions against Debock Industries for such activities, urging caution in the SME space.",negative,0.6492505669593811,-0.64,0
+40,"At a rally in Erie, Pennsylvania, Senator JD Vance strongly condemned Vice President Kamala Harris, blaming her for the deaths of 13 American service members during the 2021 Afghanistan withdrawal. He criticized her lack of action and accountability, accusing her of shifting blame onto Donald Trump instead of addressing the issues head-on. Neither Trump nor Harris campaigns have responded yet.",negative,0.8140442371368408,-0.81,0
+41,"The cabinet committee on economic affairs has cleared the development of 12 new industrial cities with a total investment of Rs 28,600 crore. These cities will be spread across multiple states and are expected to generate around 10 lakh jobs. Basic infrastructure for these projects is aimed to be developed within three years.",positive,0.6327134966850281,0.63,2
+42,"In Anakapalli, Andhra Pradesh, a chemical blast at a pharmaceutical unit killed 17 workers. The incident was triggered by a leak of methyl tert-butyl ether (MTBE), which went unattended during lunch. Despite detecting the leak earlier, it was not addressed until too late, causing the vapors to explode and resulting in severe casualties.",negative,0.8462495803833008,-0.84,0
+43,"Vice President Kamala Harris and Tim Walz visited Liberty County High School, Georgia as part of their campaign tour. Harris interacted with students and encouraged them. They also stopped at a local restaurant. The campaign aims to connect with traditionally Republican areas and secure a victory in the battleground state ahead of the November election.",positive,0.6503246426582336,0.65,2
+44,"The FBI disclosed that Thomas Crooks, 20, attempted to assassinate Donald Trump at a July rally in Pennsylvania after extensive research on both Trump and Biden. Nearly 1,000 interviews were conducted, but Crooks' motive remains unclear. Authorities highlighted his mixed ideologies and focus on opportunistic targets. An FBI official said that the suspected shooter exhibited a mix of ideologies and did not align strictly with either right-leaning or left-leaning views. ",negative,0.5495291948318481,-0.54,0
+45,"On the 10th anniversary of the Jan Dhan scheme, PM Narendra Modi highlighted how Congress, despite nationalizing banks, failed to provide banking access to the poor. Modi emphasized that the initiative has significantly impacted SC, ST, and OBC families, making various social security schemes more effective and accessible to India's underserved communities.",neutral,0.6047511696815491,-0.14,0
+46,"Pakistan-born Shazeb Khalid admitted to killing Indian restaurant manager Vignesh Pattabi-Raman in the UK on Valentine’s Day. Khalid, who denied intending to kill Raman, was allegedly hired to intimidate him. Raman was struck by Khalid’s car while cycling, leading to a murder charge against Khalid. ",negative,0.7713271975517273,-0.77,0
+47,"During the first Council of Ministers meeting in his third term, Prime Minister Narendra Modi assured continued development at the same speed over the next five years. Secretaries presented blueprints for the future and 2047 ambitions. Modi emphasized the importance of using social media to disseminate information about governmental decisions to the public.",positive,0.751565158367157,0.75,-1
+48,"Kamala Harris' presidential campaign has enlisted Brenda Abdelall, an Egyptian American lawyer and former Department of Homeland Security official, to engage Arab American voters. This step aims to address dissatisfaction within the community concerning U.S. backing of Israel in Gaza. Arab and Muslim American votes are crucial in key states like Michigan, where Harris is scheduled to visit.",neutral,0.7544941902160645,0.22,0
+49,"The Competition Commission of India has approved the merger of Reliance Industries and Walt Disney India's media assets, with specific modifications. This merger aims to establish an $8.5-billion entertainment powerhouse to compete with Amazon, Netflix, and Sony Pictures Networks. The companies will divest several TV channels and cap advertisement prices for streamed cricket matches for approval.",neutral,0.7011407613754272,0.29,0
+50,"The Supreme Court reprimanded Maharashtra's counsel in a land compensation case over a 'contemptuous' affidavit by a senior IAS officer. Alleging delaying tactics, the court noted the state failed to provide the current land value. The decision on whether to offer monetary compensation or an alternative land parcel remains unresolved.",negative,0.6957500576972961,-0.69,0
+51,"Flipkart's new mandate for sellers to verify their GSTIN through OTP has caused concern among sellers, who fear it could lead to unauthorized access to their confidential data and sales on rival marketplaces. Flipkart stated that the OTP is for validating GST registration to prevent misuse of GST numbers by unauthorized persons.",neutral,0.5901026725769043,-0.38,0
+52,"An anonymous blog by two professors at Russell Group universities reveals that a significant number of international students in the UK fall short of the required English skills to earn their degrees, yet they still receive them. This challenge predominantly impacts master’s programs and threatens the global reputation of UK's higher education.",negative,0.7459835410118103,-0.74,0
+53,"Prince Harry's memoir, Spare, is set for a paperback release on October 24, the same day as King Charles's Commonwealth summit in Samoa. Royal experts are concerned this timing could revive tensions within the family. The release, without new content, may attract more readers, potentially overshadowing the King's commitments and reigniting controversy.",neutral,0.7822359204292297,-0.17,0
+54,"Authorities in Satna district of Madhya Pradesh arrested three men and detained a minor after they allegedly pushed stray cattle into a swollen river, killing several animals. The incident took place in Bamhor village and was captured on video by a local. The suspects claimed frustration over crop damage by the cattle.",negative,0.8019271492958069,-0.8,0
+55,"Last week, eight individuals, including four illegal immigrants, were arrested in Florida for allegedly stealing $7,300 worth of palmetto berries. The suspects loaded around 9,000 pounds of berries into a U-Hau. Brevard County Sheriff Wayne Ivey publicly criticised Washington DC lawmakers for their failure to enforce border security, emphasising that illegal immigration leads to further crimes. Ivey noted that some suspects had previously been deported and expressed frustration over the inability to deport individuals with pending court dates or nonviolent crimes.",negative,0.7633110880851746,-0.76,0
+56,"Kolkata saw over 20 political demonstrations, one doctors' protest, and a citizens' march on Wednesday, indicating a political shift in the 'Justice for RG Kar' movement. The BJP's 12-hour bandh underscored this change, with clashes occurring but junior doctors marching towards Esplanade to demand justice for the Aug 9 RG Kar crime, despite disruptions.",neutral,0.8687000274658203,0.04,0
+57,"Former county official Robert Telles has been convicted of murdering veteran journalist Jeff German after German published articles critical of him. The incident occurred in September 2022, outside German's home. Despite Telles's claims of being framed, DNA and video evidence implicated him. The jury's decision is seen as justice for German, who spent his career addressing issues like political corruption. The case highlights the peril journalists face while holding officials accountable.",negative,0.6264725923538208,-0.62,0
+58,"In Bahraich, Uttar Pradesh, three elusive wolves have killed seven villagers and injured 22 others over 45 days. Despite continuous efforts from 25 forest department teams equipped with advanced tools, the wolves remain uncaptured. Officials are using innovative tactics, like spreading elephant dung, while villagers engage in prayers to drive away the threat.",negative,0.7746281027793884,-0.77,0
+59,"Copyright © 2024 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",neutral,0.957305073738098,0.01,0
+60,"Copyright © 2024 Bennett, Coleman & Co. Ltd. All rights reserved.For reprint rights: Times Syndication Service",neutral,0.954856276512146,0.02,0
+1,VIEW ALL,neutral,0.668006420135498,0.2,0
+2,redeem,neutral,0.7704062461853027,0.1,0
+3,REDEEM POINTS,neutral,0.807310163974762,0.05,0
+4,KNOW MORE,neutral,0.72491055727005,0.1,0
+5,English,neutral,0.7685852646827698,0.04,0
+6,हिन्दी,neutral,0.7250784039497375,-0.2,0
+7,मराठी,neutral,0.6669967770576477,-0.19,0
+8,বাংলা ,neutral,0.7409612536430359,-0.04,0
+9,ગુજરાતી,neutral,0.6754021048545837,-0.16,0
+10,ಕನ್ನಡ,neutral,0.6584916710853577,-0.09,0
+11,தமிழ்,neutral,0.622765302658081,-0.13,0
+12,తెలుగు,neutral,0.716545581817627,0.01,0
+13,മലയാളം,neutral,0.6478767991065979,-0.13,0
+14,GadgetsNow,neutral,0.6926662921905518,0.24,0
+15,"
+                                     Read ePaper
+                                 ",neutral,0.8222907185554504,0.01,0
+16,Edit Profile,neutral,0.8288301229476929,0.0,0
+17,My Subscription,neutral,0.8001710772514343,0.14,0
+18,Redeem Benefits,neutral,0.7266333699226379,0.22,0
+19,Read Other Epapers,neutral,0.8860723972320557,-0.0,0
+20,"
+                                                          The Economic Times
+                                                        ",neutral,0.778708815574646,0.03,0
+21,"
+                                                          The Times Of India
+                                                        ",neutral,0.7788754105567932,0.01,0
+22,"
+                                                          Mirror
+                                                        ",neutral,0.7415951490402222,0.05,0
+23,"
+                                                          Maharashtra Times
+                                                        ",neutral,0.7850481271743774,0.04,0
+24,Epaper Preferences,neutral,0.7779641151428223,0.07,0
+25,,neutral,0.6808650493621826,0.13,0
+26,,neutral,0.6808650493621826,0.13,0
+27,,neutral,0.6808650493621826,0.13,0
+28,,neutral,0.6808650493621826,0.13,0
+29,,neutral,0.6808650493621826,0.13,0
+30,,neutral,0.6808650493621826,0.13,0
+31,,neutral,0.6808650493621826,0.13,0
+32,,neutral,0.6808650493621826,0.13,0
+33,,neutral,0.6808650493621826,0.13,0
+34,,neutral,0.6808650493621826,0.13,0
+35,Briefs,neutral,0.6977993249893188,0.07,0
+36,World,neutral,0.5976827144622803,0.22,0
+37,Business,neutral,0.5561901330947876,0.22,0
+38,Tech,neutral,0.5000767707824707,0.34,-1
+39,Sports,neutral,0.6054787039756775,0.26,0
+40,Entertainment,neutral,0.7082768082618713,0.19,0
+41,TV,neutral,0.601172149181366,0.23,0
+42,Lifestyle,neutral,0.6416477560997009,0.21,0
+43,Photos,neutral,0.5317595601081848,0.35,-1
+44,Education,neutral,0.6874499917030334,0.09,0
+45,Science,neutral,0.4655415415763855,0.36,-1
+46,Politics,neutral,0.6370735764503479,-0.01,-1
+47,Elections,neutral,0.7180406451225281,-0.02,0
+48,Briefs,neutral,0.6977993249893188,0.07,0
+49,India,neutral,0.6222667098045349,0.27,0
+50,Sports,neutral,0.6054787039756775,0.26,0
+51,Entertainment,neutral,0.7082768082618713,0.19,0
+52,TV,neutral,0.601172149181366,0.23,0
+53,Lifestyle,neutral,0.6416477560997009,0.21,0
+54,World,neutral,0.5976827144622803,0.22,0
+55,Business,neutral,0.5561901330947876,0.22,0
+56,Elections,neutral,0.7180406451225281,-0.02,0
+57,,neutral,0.6808650493621826,0.13,0
+58,News,neutral,0.6845576763153076,0.12,0
+59,,neutral,0.6808650493621826,0.13,0
+60,Lok Sabha polls: Congress gave Rs 70 lakh to Rahul Gandhi to contest election; this leader got highest but lost,neutral,0.674575924873352,-0.21,0
+61,"Congress reported to the Election Commission that Rs 70 lakh each was given to prominent candidates, including Rahul Gandhi, for the 2024 Lok Sabha elections. Vikramaditya Singh received the highest allocation of Rs 87 lakh. The expenditure limit for candidates has recently been increased by the government, though political parties face no such restrictions.",neutral,0.8006152510643005,0.18,0
+62,India,neutral,0.6222667098045349,0.27,0
+63,,neutral,0.6808650493621826,0.13,0
+64,India commissions INS Arighat: Know all about Navy's 2nd nuclear-powered submarine,neutral,0.8790212869644165,0.1,0
+65,"India has bolstered its strategic deterrence by commissioning INS Arighat, its second nuclear-powered submarine with nuclear-tipped ballistic missiles. Armed with K-15 missiles and nearly 112 meters long, INS Arighat joins INS Arihant to enhance India's nuclear triad. This marks a crucial step in strengthening India's military capabilities and long-term strategic plans.",positive,0.6525961756706238,0.65,2
+66,India,neutral,0.6222667098045349,0.27,0
+67,,neutral,0.6808650493621826,0.13,0
+68,Enraged passenger smashes computers at airport. He was sold fake American Airlines ticket,negative,0.7900791764259338,-0.78,0
+69,"A Haitian man was detained at Santiago's Nuevo Pudahuel Airport in Chile after causing $20,000 worth of damage. He went on a rampage with a hammer when he realized the American Airlines ticket sold to him was fake. The incident was caught on camera and the man went on smashing the computers and screaming. He was later handed over to police after being restrained by airport security. ",negative,0.845318078994751,-0.84,0
+70,World,neutral,0.5976827144622803,0.22,0
+71,,neutral,0.6808650493621826,0.13,0
+72,"Chhattisgarh HC orders continuation of minor rape survivor's pregnancy, asks state to facilitate birth and adoption",neutral,0.7265850305557251,-0.23,0
+73,"The Chhattisgarh High Court has decided not to permit termination of a minor rape survivor's pregnancy at 31 weeks, citing higher medical risks and legal constraints. The govt will cover the costs of childbirth and provide adoption assistance if needed. The pregnancy resulted from a December 2023 incident revealed in May 2024.",neutral,0.5013689994812012,-0.48,0
+74,,neutral,0.6808650493621826,0.13,0
+75,'It would've been given not out if...': South Africa ace recalls Suryakumar Yadav's decisive T20 World Cup catch,neutral,0.8911558985710144,0.06,0
+76,"South African spinner Tabraiz Shamsi humorously reflected on a pivotal moment from the 2024 T20 World Cup final, where Suryakumar Yadav's catch won India the title. Shamsi shared a video showing an unconventional method to measure catches, sparking debate on social media about the legitimacy of the catch. Despite the controversy, it remains a highlight of the tournament.",positive,0.5777260065078735,0.57,-1
+77,Sports,neutral,0.6054787039756775,0.26,0
+78,,neutral,0.6808650493621826,0.13,0
+79,Delhi court grants bail to murder suspect after 6 years in custody,neutral,0.5121703743934631,-0.44,0
+80,"A Delhi court has granted bail to Narender Mann, accused in the 2018 murder of Bablu Kheda in Ashok Vihar. Mann remains in custody due to other charges. The court noted only 2 of 39 witnesses have been examined, indicating a lengthy trial ahead. Bail conditions include a Rs 25,000 bond and non-interference with witnesses.",neutral,0.8164414167404175,-0.14,0
+81,India,neutral,0.6222667098045349,0.27,0
+82,,neutral,0.6808650493621826,0.13,0
+83,Big blow to Jagan Reddy as 2 YSRCP MPs quit Rajya Sabha; likely to join Naidu's TDP,negative,0.4950339794158935,-0.47,0
+84,"Two YSRCP Rajya Sabha MPs, Beedha Mastan Rao Jadhav and Venkataramana Rao Mopidevi, resigned, weakening Jaggan Mohan Reddy's party. Their resignations may lead them to join TDP. Mopidevi, upset over being denied an assembly ticket, confirmed his intent to quit before resigning. TDP may secure all by-election seats unopposed. Jagdeep Dhankhar has accepted their resignation, the sources said.",neutral,0.7993852496147156,-0.14,0
+85,India,neutral,0.6222667098045349,0.27,0
+86,,neutral,0.6808650493621826,0.13,0
+87,Is UK planning to ban smoking? Here's what PM Starmer said,neutral,0.9081565737724304,0.05,0
+88,"British Prime Minister Keir Starmer has announced plans for more stringent anti-smoking measures, which could ban smoking in outdoor areas like pubs and restaurants. The Labour government aims to reduce smoking-related deaths and healthcare costs. Additionally, they plan to reintroduce legislation to gradually raise the tobacco purchasing age, potentially making smoking illegal for future generations.",neutral,0.8166254758834839,0.08,0
+89,World,neutral,0.5976827144622803,0.22,0
+90,,neutral,0.6808650493621826,0.13,0
+91,"Police kills man on Piscataqua River Bridge, body of an 8-yr-old found from his car",negative,0.5318852663040161,-0.52,0
+92,"On Thursday morning, police shot dead a man on the I-95 bridge connecting Maine and New Hampshire and then found a body of an eight-year-old in his car. The man was believed to be in the run after killing a woman in Troy, New Hampshire. The bridge is now closed for investigation, with authorities indicating no threat to the public.",negative,0.6202195882797241,-0.61,0
+93,World,neutral,0.5976827144622803,0.22,0
+94,,neutral,0.6808650493621826,0.13,0
+95,BJP challenges J&K political families for open debate on terrorism,neutral,0.7014482617378235,-0.26,0
+96,"The BJP has challenged the NC, PDP, and Congress to an open debate on terrorism, public security, and Article 370, criticizing their tenure in the 1990s. The BJP highlights a reduction in terrorism and casualties since Article 370's abrogation in 2019, asserting their zero tolerance for terrorism and improved security measures.",neutral,0.7874106764793396,-0.08,0
+97,India,neutral,0.6222667098045349,0.27,0
+98,,neutral,0.6808650493621826,0.13,0
+99,Frustrated Suryakumar Yadav apologises for his 'dangerous' bowling at Buchi Babu tournament. Watch,negative,0.6359673142433167,-0.62,0
+100,"Suryakumar Yadav's bowling was highlighted in Mumbai's Buchi Babu tournament match against TNCA XI when he delivered a high full toss that nearly injured a fielder. Despite this, Mumbai struggled, posting 156 in contrast to TNCA XI's 350. Yadav considers these matches vital for his Test team aspirations ahead of the Bangladesh series.",neutral,0.6673254370689392,-0.18,0
+101,Sports,neutral,0.6054787039756775,0.26,0
+102,,neutral,0.6808650493621826,0.13,0
+103,Karnataka high court rejects CBI plea to probe deputy CM DK Shivakumar in illegal assets case,neutral,0.6038127541542053,-0.37,0
+104,"The Karnataka high court denied the CBI's request to investigate deputy chief minister DK Shivakumar over illegal assets. The ruling was due to the case representing a dispute between the central and state governments. Consequently, the court concluded that the matter should be taken to the Supreme Court for resolution. ",negative,0.5274404883384705,-0.52,0
+105,India,neutral,0.6222667098045349,0.27,0
+106,,neutral,0.6808650493621826,0.13,0
+107,'Nothing left to live for ... ': Heartbroken Gujarat man shares viral post of drowned Audi and other cars,negative,0.8870131969451904,-0.88,-1
+108,"A devastated Vadodara resident in Gujarat shared photos of his submerged cars, including an Audi A6, Ford EcoSport, and Maruti Suzuki Ciaz, lost to flooding. Severe rain has left the city waterlogged and forced over 18,000 residents to evacuate, highlighting the recurring issue of urban flooding and its impact on city life.",negative,0.8159731030464172,-0.81,0
+109,India,neutral,0.6222667098045349,0.27,0
+110,,neutral,0.6808650493621826,0.13,0
+111,Venezuelan gang takes over a Colorado apartment? Truth behind viral video,neutral,0.7448117733001709,-0.22,0
+112,"A chilling video of armed men holding an apartment complex in Colorado hostage has gone viral, preceding a shootout that injured several. Suspected to be the work of the Venezuelan Tren de Aragua mob, the incident has prompted residents to consider relocating. Aurora City Council member Danielle Jurinsky said everyone is helping the migrants but it's the Americans who are trapped in these apartments. ",negative,0.6454233527183533,-0.64,0
+113,World,neutral,0.5976827144622803,0.22,0
+114,,neutral,0.6808650493621826,0.13,0
+115,'BJP carrying out hooliganism': Tejashwi defends Mamata amid protests over Kolkata rape-murder case,negative,0.7347623109817505,-0.73,0
+116,"Tejashwi Yadav defended Mamata Banerjee amid allegations of mishandling the Kolkata doctor rape-murder case, accusing the BJP of stirring unrest in West Bengal. He claimed the BJP is disrupting peace across the state, while highlighting that most rape cases occur in BJP-ruled Uttar Pradesh and Bihar. Mamata warned of adverse outcomes if BJP instigated trouble in Bengal.",negative,0.5908897519111633,-0.58,0
+117,India,neutral,0.6222667098045349,0.27,0
+118,,neutral,0.6808650493621826,0.13,0
+119,"Assam passes Bill abolishing Muslim marriages, divorce act; govt registration now mandatory",neutral,0.8064431548118591,-0.08,0
+120,"The Assam Assembly has passed a bill requiring government registration of Muslim marriages and divorces, replacing a 1935 law. The new legislation aims to prevent child marriages, ensure consent, protect women's rights, and curb polygamy. Previous registrations by Qazis remain valid, while new marriages must meet specific conditions to be registered.",neutral,0.8879797458648682,0.08,0
+121,India,neutral,0.6222667098045349,0.27,0
+122,,neutral,0.6808650493621826,0.13,0
+123,Kolkata rape-murder case: Bengal government convenes special assembly session to pass anti-rape bill on Sept 2,neutral,0.6202979683876038,-0.35,0
+124,"West Bengal government plans a special assembly session to introduce a Bill mandating capital punishment for convicted rapists, following a recent rape and murder case in Kolkata. The Bill is set for discussion on September 2. Chief Minister Mamata Banerjee aims to amend existing laws to expedite justice in such cases.",neutral,0.8856852054595947,-0.06,0
+125,India,neutral,0.6222667098045349,0.27,0
+126,,neutral,0.6808650493621826,0.13,0
+127,Russia opens fraud case against former deputy defence minister,negative,0.6716600060462952,-0.66,0
+128,"Russia's Investigative Committee opened a fraud case against ex-deputy defence minister Pavel Popov, accusing him of diverting building materials from Patriot Park for personal use. Several properties worth over 500 million roubles are under investigation. Popov joins other officials in a wave of corruption probes within the military, following key dismissals by President Putin.",negative,0.7121629118919373,-0.7,0
+129,World,neutral,0.5976827144622803,0.22,0
+130,,neutral,0.6808650493621826,0.13,0
+131,'Revenge politics': BJP writes to Bengal governor over Mamata's 'if Bengal burns' statement,neutral,0.6175450086593628,-0.35,0
+132,"The BJP president has requested Bengal governor CV Bose to take action against CM Mamata Banerjee over her statement suggesting unrest in Bengal could have wider repercussions. BJP state president Sukanta Majumdar labelled Mamata’s words as anti-national and driven by revenge politics, urging the governor for appropriate measures to address the situation.",neutral,0.5090053081512451,-0.47,0
+133,India,neutral,0.6222667098045349,0.27,0
+134,,neutral,0.6808650493621826,0.13,0
+135,Canada's 2023 wildfires emit more carbon than Russia and Japan combined: Nasa,neutral,0.7057462334632874,-0.24,0
+136,"Scientists from Nasa's Jet Propulsion Laboratory report that Canadian wildfires from May to September 2023 released 640 million metric tons of carbon, surpassing the annual fossil fuel emissions of Russia and Japan in 2022. The fires were fueled by unusually warm and dry conditions, affecting 18 million hectares of forest.",neutral,0.8735880851745605,0.03,0
+137,,neutral,0.6808650493621826,0.13,0
+138,Those born with silver spoon in mouth won't understand plight of the poor: Ajit Pawar,negative,0.7453231811523438,-0.73,0
+139,"Deputy Chief Minister of Maharashtra, Ajit Pawar, assured the public about the state's commitment to welfare schemes for the underprivileged, countering opposition criticism. He highlighted financial aid for women and free cooking gas cylinders as key initiatives. Pawar assured the public that Maharashtra's finances are strong enough to sustain these programs.",positive,0.6810747981071472,0.68,2
+140,India,neutral,0.6222667098045349,0.27,0
+141,,neutral,0.6808650493621826,0.13,0
+142,DGCA fines Air India Express for not compensating flyers for delays,negative,0.7410812377929688,-0.73,0
+143,"The Directorate General of Civil Aviation (DGCA) fined Air India Express Rs 10 lakh for not following passenger-centric rules. A recent inspection showed the airline's non-compliance with regulations on flight cancellations, delays, and compensations. This penalty is part of DGCA's ongoing efforts in its 2024 surveillance program to protect passenger interests.",negative,0.7829819321632385,-0.78,0
+144,India,neutral,0.6222667098045349,0.27,0
+145,,neutral,0.6808650493621826,0.13,0
+146,Court refuses to quash defamation case against Shashi Tharoor over 'scorpion' remark on PM Modi,negative,0.5018662810325623,-0.49,0
+147,Delhi high court has declined to dismiss a defamation case against Shashi Tharoor for his 2018 remark likening Prime Minister Modi to a 'scorpion'. The trial court issued a summons following a criminal defamation suit by BJP leader Rajiv Babbar. Tharoor later clarified that he quoted an RSS leader's metaphor.,negative,0.51034015417099,-0.5,0
+148,India,neutral,0.6222667098045349,0.27,0
+149,,neutral,0.6808650493621826,0.13,0
+150,'Rahul Gandhi's politics has changed': Smriti Irani dissects his new 'white T-shirt strategy',neutral,0.902182936668396,0.01,0
+151,"BJP leader Smriti Irani remarked on Congress leader Rahul Gandhi's strategic shift towards caste politics and symbolic moves, suggesting it's a calculated effort due to past failures in other approaches. Irani emphasised Gandhi's deliberate use of caste rhetoric to garner political traction and believes his strategy marks a significant evolution in his political approach.",neutral,0.8505361676216125,0.05,0
+152,India,neutral,0.6222667098045349,0.27,0
+153,,neutral,0.6808650493621826,0.13,0
+154,'Fifty percent confirmed India is coming to Pakistan for Champions Trophy' - says Rashid Latif,neutral,0.7179868221282959,0.27,0
+155,"The Champions Trophy returns to the ICC calendar next February and March in Pakistan, after a seven-year gap. India's participation, however, is uncertain due to the tense political relations between the two countries, but Rashid Latif believes it's likely. India's last visit to Pakistan was for the Asia Cup in 2008.",neutral,0.8820982575416565,0.1,0
+156,Sports,neutral,0.6054787039756775,0.26,0
+157,,neutral,0.6808650493621826,0.13,0
+158,"Hillary Clinton, down with Covid, skips $100k-a-head Kamala Harris fundraiser, raising over $2 million: Report",neutral,0.7644941806793213,-0.14,0
+159,"Hillary Clinton, unable to attend a Hamptons fundraiser due to a positive Covid-19 test, was replaced by Bill Clinton at the high-profile event for Kamala Harris and Tim Walz. The event raised over $2 million, reflecting strong support for Harris ahead of the election, despite recent Covid cases at the Democratic National Convention.",neutral,0.8290034532546997,0.11,0
+160,World,neutral,0.5976827144622803,0.22,0
+161,,neutral,0.6808650493621826,0.13,0
+162,Three Pakistan hockey players slapped with life-ban for seeking...,negative,0.6837125420570374,-0.67,0
+163,"Three Pakistani hockey players and a physiotherapist have been banned for life for attempting to seek asylum in Europe during the Nations Cup without notifying the Pakistan Hockey Federation. The incident is seen as damaging to Pakistan hockey, further complicating visa applications for future competitions. Efforts are being made to get them deported. ",negative,0.8214020729064941,-0.82,0
+164,Sports,neutral,0.6054787039756775,0.26,0
+165,,neutral,0.6808650493621826,0.13,0
+166,FAA grounds SpaceX Falcon9 rockets after booster crash; could impact already delayed spacewalk mission,negative,0.6702985167503357,-0.66,0
+167,"SpaceX rocket launches have been suspended after a Falcon 9 booster crash during a landing attempt, causing a fire. Following the incident, the FAA began an investigation and will need to approve corrective actions before resuming flights. The suspension impacts SpaceX's upcoming private and NASA crew missions, and other scheduled launches.",negative,0.600363552570343,-0.59,0
+168,,neutral,0.6808650493621826,0.13,0
+169,"New ICC chairman Jay Shah thanks Virat Kohli, Rohit Sharma and others for their wishes",positive,0.8513292074203491,0.85,3
+170,"Jay Shah, the new chairman of the ICC, thanked Virat Kohli, Rohit Sharma, and others from the Indian and international cricket fraternity for their congratulations. Shah, currently the BCCI secretary, will take over in December and at 35 years old, he is the youngest to lead the ICC. He aims to globalize cricket and enhance its global appeal.",positive,0.8797140121459961,0.88,3
+171,Sports,neutral,0.6054787039756775,0.26,0
+172,,neutral,0.6808650493621826,0.13,0
+173,Delhi high court extends interim protection for suspended IAS officer Puja Khedkar,neutral,0.9167256355285645,0.01,0
+174,"The Delhi High Court extended interim protection for suspended IAS probationer Puja Khedkar, accused of cheating to fraudulently secure OBC and disability quotas. The anticipatory bail plea hearing was postponed to September 5, as Delhi Police needed more time for reviewing her rejoinder and submitting a new status report. ",neutral,0.5131474137306213,-0.46,0
+175,India,neutral,0.6222667098045349,0.27,0
+176,,neutral,0.6808650493621826,0.13,0
+177,Why ED slapped Rs 89 crore fine on DMK MP,neutral,0.5137671828269958,-0.45,0
+178,"DMK MP Jagathrakshakan has been fined Rs 908 crore by the Enforcement Directorate for violations of FEMA regulations. Properties worth Rs 89 crore have also been confiscated. The charges include investments into a Singapore shell company and a Sri Lankan entity. The Madras High Court dismissed their appeals recently, affirming the penalties.",negative,0.7955870032310486,-0.79,0
+179,,neutral,0.6808650493621826,0.13,0
+180,Buy stationery if you want CSR report from Chennai cops,neutral,0.7759876251220703,-0.12,0
+181,"Vasanth encountered significant challenges while trying to obtain an accident report from Pallikaranai police station, essential for his insurance claim. He and his father spent hours navigating departments, faced refusal from police, and ended up buying stationery as demanded. After two days, they finally received the document, prompting an investigation promise by authorities.",neutral,0.5698459148406982,-0.36,0
+182,,neutral,0.6808650493621826,0.13,0
+183,JD Vance stirs controversy with 'Cats for Vance 2024' post amid backlash,neutral,0.7663496136665344,-0.19,0
+184,"Ohio Senator JD Vance recently posted a photo of a cat wearing a “Cats for Vance 2024” bandana on social media. This post comes in the wake of criticism over his controversial remarks about childless individuals. Vance's attempt to use humor has drawn mixed reactions, with some appreciating the gesture while others find it dismissive of serious concerns.",neutral,0.6943804025650024,-0.25,0
+185,World,neutral,0.5976827144622803,0.22,0
+186,,neutral,0.6808650493621826,0.13,0
+187,East India company stamp paper found in Tamil Nadu village,neutral,0.8517115712165833,-0.06,0
+188,"A rare 1818 stamp paper from the East India Company, signed by the female zamindar Chinnobalamma, was found in Tamil Nadu's Palani. The document lists 23 property managers and features inscriptions in multiple languages. This bond was executed after Chinnobalamma's husband's death and valued at two annas, shedding light on administrative practices of that time.",neutral,0.937583863735199,0.03,0
+189,,neutral,0.6808650493621826,0.13,0
+190,'You will achieve...': Manu Bhaker recalls PM Modi's encouragement when she met him for the first time as a 16 years old,positive,0.840464174747467,0.84,3
+191,"Indian Olympic medallist and pistol shooter Manu Bhaker credited Prime Minister Narendra Modi for his inspiring guidance. At the 2024 Paris Olympics, she made history with two bronze medals, one in the women's 10m air pistol and another in the Mixed 10m Air Pistol. PM Modi's encouragement has been pivotal in her sporting journey.",positive,0.9505110383033752,0.95,-1
+192,Sports,neutral,0.6054787039756775,0.26,0
+193,,neutral,0.6808650493621826,0.13,0
+194,800 passports cleared by Ahmedabad graft-tainted cop under scanner,neutral,0.8324694037437439,-0.03,0
+195,"The arrest of assistant sub-inspector Bharatgiri Goswami for allegedly accepting bribes for passport verifications has put nearly 800 passports under scrutiny. Serving for 25 years, Goswami is suspected of issuing clearance certificates without proper protocols. Numerous complaints against him were ignored, and authorities now probe the extent of his corrupt activities.",negative,0.8198672533035278,-0.81,0
+196,,neutral,0.6808650493621826,0.13,0
+197,Espionage case: Gujarat HC denies bail to Pakistani refugee,negative,0.6028293967247009,-0.59,0
+198,"The Gujarat High Court denied bail to Labhshankar Maheshwari, a former Pakistani citizen turned Indian, implicated in espionage for allegedly assisting Pakistani agencies in monitoring Indian defense personnel. Arrested by the Gujarat ATS, Maheshwari is accused of sending tracking malware on WhatsApp. The state opposed bail citing the seriousness of the charges.",negative,0.613792896270752,-0.6,0
+199,,neutral,0.6808650493621826,0.13,0
+200,EC issues notification for phase-2 polling in Jammu and Kashmir assembly polls,neutral,0.9261381030082704,0.02,0
+201,"The Election Commission has issued a notification for the second phase of assembly elections in Jammu and Kashmir. Elections will take place on September 25, with nominations due by September 5. This is the first assembly election since the abrogation of Article 370. The polls are expected to see multi-cornered contests across various constituencies.",neutral,0.9498831629753112,0.03,0
+202,India,neutral,0.6222667098045349,0.27,0
+203,,neutral,0.6808650493621826,0.13,0
+204,"Ghulam Nabi Azad steps back from Jammu and Kashmir assembly polls, citing health issues",neutral,0.5884886980056763,-0.39,0
+205,"Ghulam Nabi Azad, the leader of the Democratic Progressive Azad Party (DPAP), is unable to campaign for the upcoming Jammu and Kashmir assembly elections because of health issues. Having experienced chest pain on August 25 and being hospitalized at AIIMS New Delhi, Azad's absence will significantly impact DPAP candidates, especially in the Doda and Bhaderwah constituencies.",negative,0.6773152947425842,-0.67,0
+206,India,neutral,0.6222667098045349,0.27,0
+207,,neutral,0.6808650493621826,0.13,0
+208,Taylor Swift’s Vienna concert: CIA reveals foiled terror plot aiming to kill tens of thousands at venue,negative,0.8412162661552429,-0.84,0
+209,"A CIA disruption prevented a terrorist attack connected to ISIS targeting Taylor Swift’s concert in Vienna, intending to kill tens of thousands. Austrian authorities detained three suspects. The cancellation of all three concerts saved countless lives. Taylor Swift expressed profound gratitude and relief on social media for averting a tragedy.",negative,0.5081984400749207,-0.45,0
+210,World,neutral,0.5976827144622803,0.22,0
+211,,neutral,0.6808650493621826,0.13,0
+212,Sachin Tendulkar thanks Maharashtra Government for its decision to...,positive,0.900078535079956,0.9,3
+213,"Sachin Tendulkar has thanked the Maharashtra Government for its decision to erect a statue of his childhood coach, the Late Ramakant Achrekar, at the Shivaji Park in Mumbai. The monument will honor Achrekar’s contributions to the sport. The memorial statue will feature signatures of 14 Indian cricketers he coached, including Tendulkar. ",positive,0.8498353958129883,0.85,3
+214,Sports,neutral,0.6054787039756775,0.26,0
+215,,neutral,0.6808650493621826,0.13,0
+216,On this day: Birth of Ashes - one of the most iconic cricket rivalries,positive,0.8601512908935547,0.86,3
+217,"The Ashes is a legendary cricket rivalry between England and Australia dating back to 1882. Highlights include the controversial 1932/33 ""Bodyline"" series and the memorable 2005 series. The 2023 series ended in a 2-2 draw. Australia has held the Ashes since 2018, with England aiming to win them back in the 2025-26 tour.",neutral,0.526429295539856,0.47,1
+218,Sports,neutral,0.6054787039756775,0.26,0
+219,,neutral,0.6808650493621826,0.13,0
+220,"EXCLUSIVE | 'When a team like Australia can tour Pakistan, why not India?' Former Pakistan cricketer questions BCCI",neutral,0.9285351037979126,0.02,0
+221,"Pakistan have hosted teams from Australia, Bangladesh, England, New Zealand, South Africa, Sri Lanka, and the West Indies in the past few years. It has led to former Pakistan wicketkeeper-batsman Kamran Akmal questioning the BCCI, asking why India cannot travel to Pakistan when teams like Australia have done so. The last time Pakistan hosted India was in 2005-06, where Pakistan won the three-match Test series 1-0, while India claimed the ODI series with a 4-1 margin.",neutral,0.877346396446228,-0.04,0
+222,Sports,neutral,0.6054787039756775,0.26,0
+223,,neutral,0.6808650493621826,0.13,0
+224,'Never threatened ... ': Bengal CM Mamata clarifies remarks made during TMCP rally,neutral,0.8753694891929626,0.08,0
+225,"West Bengal Chief Minister Mamata Banerjee clarified her remarks accusing the BJP-led Centre of undermining democracy and attempting to create anarchy in the state. She denied targeting medical students or their protests, affirming support for their cause. Her comments have prompted criticism from BJP leaders, including Assam's Himanta Biswa Sarma and Manipur's N Biren Singh.",negative,0.685772180557251,-0.68,0
+226,India,neutral,0.6222667098045349,0.27,0
+227,,neutral,0.6808650493621826,0.13,0
+228,"Who is Kash Patel, ‘the man who will do anything for Trump’",negative,0.5155080556869507,-0.49,0
+229,"Kash Patel, a lawyer with limited government experience, rapidly ascended in the Trump administration since 2019. His loyalty earned him key Defense and Intelligence roles, drawing criticism. Post-administration, Patel stays close to Trump, involved in promotional activities, writing, and testifying in investigations. Challenges may await him in any future Trump presidency.",neutral,0.8106849789619446,-0.02,0
+230,World,neutral,0.5976827144622803,0.22,0
+231,,neutral,0.6808650493621826,0.13,0
+232,Lakshya Sen wants to be the Virat Kohli of Indian badminton,neutral,0.7321273684501648,0.19,0
+233,"Lakshya Sen's pursuit of an Olympic medal at the Paris Games ended in heartbreak as he suffered a 13-21, 21-16, 21-11 defeat against Malaysia's Lee Zii Jia in the bronze-medal match. Despite the setback, the 23-year-old shuttler's performance has bolstered his confidence and determination to reach greater heights in his career.",neutral,0.5214306116104126,-0.31,-1
+234,Sports,neutral,0.6054787039756775,0.26,0
+235,,neutral,0.6808650493621826,0.13,0
+236,'Just copy what India is doing': Former Pakistan cricketer urges PCB to build a solid foundation for national team,neutral,0.817518413066864,0.07,0
+237,"Basit Ali, a former cricketer, calls on the Pakistan Cricket Board to focus on red-ball cricket to improve the national team's performance. He criticizes the board's strategy of mirroring systems from other countries and recommends following India's model, which uses red-ball tournaments like the Duleep Trophy to build a solid foundation.",neutral,0.7686110138893127,-0.12,0
+238,Sports,neutral,0.6054787039756775,0.26,0
+239,,neutral,0.6808650493621826,0.13,0
+240,What is the best time to exercise?,neutral,0.6993486285209656,0.28,0
+241,"Regular exercise benefits health, yet determining the best time to work out depends on individual preferences and schedules. Morning sessions can enhance metabolism and mood, afternoon workouts improve performance, and evening exercise aids relaxation. Choose a consistent routine that aligns with personal energy levels and fitness goals for optimal results. ",positive,0.7142817974090576,0.7,2
+242,LifeStyle,neutral,0.7627465724945068,0.1,0
+243,,neutral,0.6808650493621826,0.13,0
+244,Novak Djokovic advances to third round after Laslo Djere retires injured,neutral,0.9158936142921448,0.05,0
+245,Defending US Open champion Novak Djokovic kept his bid for a record 25th Grand Slam title on track on Wednesday after fellow Serb Laslo Djere retired injured while trailing 6-4 6-4 2-0 in their second-round match. Djokovic had needed five sets to get past Djere in the third round a year ago and it looked as though Arthur Ashe Stadium would see another epic clash between the two as Djere went up a break in the second set.,neutral,0.7826283574104309,0.2,0
+246,Sports,neutral,0.6054787039756775,0.26,0
+247,,neutral,0.6808650493621826,0.13,0
+248,"Delhi citizens to pay traffic fines via WhatsApp, Google Pay, and UPI",neutral,0.8425105810165405,-0.09,0
+249,"The New Delhi transport department is introducing a new system to simplify the payment of road challans. Violators will receive automated messages containing payment details through SMS and WhatsApp. Additionally, payments can be made via UPI apps such as Bhim and Google Pay, enhancing convenience and increasing governmental revenue. The system is expected to be launched soon.",positive,0.4977033138275146,0.49,1
+250,The Economic Times,neutral,0.8422104120254517,0.0,0
+251,Hindi Economic Times,neutral,0.9049307107925416,0.03,0
+252,Navbharat Times,neutral,0.8669137954711914,0.04,0
+253,Maharashtra Times,neutral,0.8865054249763489,0.03,0
+254,Vijaya Karnataka,neutral,0.7997313737869263,0.14,0
+255,Telugu Samayam,neutral,0.7795313000679016,0.14,0
+256,Tamil Samayam,neutral,0.8233535289764404,0.1,0
+257,Malayalam Samayam,neutral,0.8321271538734436,0.11,0
+258,I am Gujarat,neutral,0.7427678108215332,0.14,0
+259,TimesPoints,neutral,0.7677948474884033,-0.01,0
+260,Indiatimes,neutral,0.7504243850708008,0.04,0
+261,Brand Capital,neutral,0.8535194993019104,0.08,0
+262,Education Times,neutral,0.8736155033111572,0.05,0
+263,Times Food,neutral,0.7995722889900208,0.08,0
+264,Mumbai Mirror,neutral,0.9066842198371888,0.03,0
+265,Bangalore Mirror,neutral,0.9028431177139282,0.05,0
+266,MX Player,neutral,0.8079507946968079,0.13,0
+267,Hindi Podcast,neutral,0.8290367722511292,0.15,0
+268,iDiva ,neutral,0.8357519507408142,0.12,0
+269,MensXP.com ,neutral,0.8760951161384583,0.09,0
+270,Femina ,neutral,0.8268575668334961,0.06,0
+271,ETimes,neutral,0.801149845123291,0.02,0
+272,Grazia ,neutral,0.7305798530578613,0.19,0
+273,Zoom ,neutral,0.7636826634407043,0.16,0
+274,Travel Destinations ,neutral,0.8966536521911621,0.07,0
+275,Bombay Times ,neutral,0.9072824120521544,0.05,0
+276,Cricbuzz.com ,neutral,0.8988523483276367,0.01,0
+277,Filmfare ,neutral,0.8834090232849121,0.07,0
+278,Online Songs ,neutral,0.912559688091278,0.05,0
+279,TV,neutral,0.601172149181366,0.23,0
+280,Lifestyle ,neutral,0.8180381059646606,0.13,0
+281,Longwalks App,neutral,0.8045535087585449,0.13,0
+282,Newspaper Subscription,neutral,0.8533018231391907,0.11,0
+283,Food News,neutral,0.8039918541908264,0.1,0
+284,Times Prime,neutral,0.7665041089057922,0.13,0
+285,Whats Hot,neutral,0.7158288359642029,0.13,0
+286,UEFA Champions League,neutral,0.6988809108734131,0.27,0
+287,Pavel Durov Education,neutral,0.8964404463768005,0.04,0
+288,Reliance AGM,neutral,0.8348133563995361,0.15,0
+289,Mukesh Ambani,neutral,0.7732667922973633,0.16,0
+290,Who is Elizabeth Huberdeau,neutral,0.9074053168296814,-0.0,0
+291,Paris Paralympics Day 1 Live,neutral,0.7909502387046814,0.19,0
+292,Basit Ali,neutral,0.7974233627319336,0.06,0
+293,Sachin Tendulkar,neutral,0.6461929678916931,0.32,0
+294,Gautam Adani,neutral,0.6922664642333984,0.23,0
+295,Cristiano Ronaldo,positive,0.5268803238868713,0.51,1
+296,CSIR UGC NET Result,neutral,0.8465175628662109,0.02,0
+297,US Election,neutral,0.7800121307373047,0.1,0
+298,Elon Musk,neutral,0.6830647587776184,0.23,0
+299,Paris Paralympics Schedule,neutral,0.8612231612205505,0.11,0
+300,India Paris Paralympics Schedule,neutral,0.8826523423194885,0.09,0
+301,Live Cricket Score,neutral,0.7949255704879761,0.12,0
+302,Ads 2 Book,neutral,0.8672587275505066,0.08,0
+303,ET Money Finance App,neutral,0.851107656955719,0.09,0
+304,CouponDunia,neutral,0.7316769957542419,-0.03,0
+305,Dineout,neutral,0.7350656986236572,0.19,0
+306,Magicbricks,neutral,0.6595864295959473,0.21,0
+307,Techgig,neutral,0.6393551230430603,0.2,0
+308,Times Jobs,neutral,0.6710978746414185,0.12,0
+309,Bollywood News,neutral,0.7584648132324219,0.02,0
+310,Times Mobile,neutral,0.7875904440879822,0.09,0
+311,Gadgets Now,neutral,0.7692846655845642,0.19,0
+312,Careers,neutral,0.7445905804634094,0.08,0
+313,Colombia,neutral,0.7654385566711426,0.05,0
+314,Headlines,neutral,0.8129168152809143,-0.04,0
+315,Sports News,neutral,0.7984464764595032,0.08,0
+316,Business News,neutral,0.7225741744041443,0.09,0
+317,India News,neutral,0.7296682596206665,0.04,0
+318,World News,neutral,0.7423023581504822,0.05,0
+319,Bollywood News,neutral,0.7584648132324219,0.02,0
+320,Health & Fitness Tips,neutral,0.7379682064056396,0.19,0
+321,Indian TV Shows,neutral,0.7914635539054871,0.13,0
+322,Celebrity Photos,neutral,0.789524495601654,0.19,0
+323,Popular News,neutral,0.5800049304962158,-0.16,0
+324,Optical Illusion,positive,0.6364910006523132,0.61,2
+325,Stree 2 Collection,neutral,0.9047383069992064,0.07,0
+326,Nick Jonas,neutral,0.7850620746612549,0.19,0
+327,Sharmila Tagore,neutral,0.7059665322303772,0.23,0
+328,Ginger Water,neutral,0.8528586626052856,0.09,0
+329,Salman Khan,neutral,0.7434154748916626,0.2,0
+330,Parenting Tips,neutral,0.7211936712265015,0.07,0
+331,Chia Seeds,neutral,0.6939361095428467,-0.03,0
+332,Sonali Bendre,neutral,0.785102128982544,0.08,0
+333,Mollywood sexual News,neutral,0.6665018200874329,-0.25,0
+334,Anupamaa,neutral,0.7477825284004211,0.06,0
+335,Vijay Verma,neutral,0.6338542103767395,0.33,0
+336,Aly Goni,neutral,0.7517592906951904,0.15,0
+337,Shah Rukh Khan,neutral,0.6100053787231445,0.37,0
+338,Passport Seva Portal Shut Down,neutral,0.5329268574714661,-0.44,0
+339,Optical Illusion,positive,0.6364910006523132,0.61,2
+340,Sudhanshu Pandey,neutral,0.8235027194023132,0.09,0
+341,New Seven Wonders of the World,neutral,0.5717592239379883,0.39,0
+342,Stomach,neutral,0.5676288604736328,-0.14,0
+343,Thangalaan Collection,neutral,0.7363342046737671,0.17,0
+344,Kangana Ranaut,neutral,0.8483493328094482,0.09,0
+345,Arshad Warsis,neutral,0.7956295013427734,0.06,0
+346,Taeil,neutral,0.7531836032867432,0.17,0
+347,Kangana Ranaut,neutral,0.8483493328094482,0.09,0
+348,Taapsee Pannu,neutral,0.8097062110900879,0.12,0
+349,Best Antivirus For Android,positive,0.8615097999572754,0.85,3
+350,Facial Hair Trimmers For Women,neutral,0.8510043025016785,0.11,0
+351,Wordle Answer,neutral,0.7998571991920471,0.07,0
+352,Virat Kohli Deepfake Video,neutral,0.7646953463554382,-0.11,0
+353,,neutral,0.6808650493621826,0.13,0
+354,,neutral,0.6808650493621826,0.13,0
+355,,neutral,0.6808650493621826,0.13,0
+356,,neutral,0.6808650493621826,0.13,0
+357,,neutral,0.6808650493621826,0.13,0
+358,,neutral,0.6808650493621826,0.13,0
+359,,neutral,0.6808650493621826,0.13,0
+360,,neutral,0.6808650493621826,0.13,0
+361,,neutral,0.6808650493621826,0.13,0
+362,android,neutral,0.5724087357521057,0.23,0
+363,iphone,neutral,0.6217905282974243,0.27,0
+364,ipad,neutral,0.5968225002288818,-0.05,-1
+365,,neutral,0.6808650493621826,0.13,0
+366,About us ,neutral,0.8176370859146118,0.13,0
+367,Create Your Own Ad ,neutral,0.8310387134552002,0.09,0
+368,Terms of Use and Grievance Redressal Policy ,neutral,0.9219141006469728,-0.03,0
+369,Privacy policy ,neutral,0.8906152248382568,0.01,0
+370,Privacy policy ,neutral,0.8906152248382568,0.01,0
+371,Advertise with us ,neutral,0.7878958582878113,0.2,0
+372,RSS ,neutral,0.7668317556381226,-0.06,0
+373,Newsletter ,neutral,0.8299222588539124,0.1,0
+374,Feedback ,neutral,0.8497288227081299,0.08,0
+375,ePaper ,neutral,0.8519870042800903,0.04,0
+376,Sitemap ,neutral,0.8389254808425903,0.1,0
+377,Archives ,neutral,0.8482816219329834,0.1,0
+378,Do Not Sell Data,neutral,0.7806727886199951,-0.15,0
+379,Cookie Policy,neutral,0.8435285687446594,-0.06,0
+380,DNPA Code of Ethics,neutral,0.8190820217132568,-0.02,0
+381,Times Syndication Service,neutral,0.8823549747467041,0.03,0
+382,Tamil News,neutral,0.7344748377799988,0.08,0
+383,Telugu News,neutral,0.813370406627655,0.05,0
+384,Kannada News,neutral,0.8336942195892334,0.0,0
+385,Malayalam News,neutral,0.878995954990387,0.05,0
+386,ET Mobile,neutral,0.817561686038971,0.09,0
+387,Indiatimes,neutral,0.7504243850708008,0.04,0
+388,Times Jobs,neutral,0.6710978746414185,0.12,0
+389,Follo,neutral,0.6786307692527771,0.11,0
+390,GreetZap,neutral,0.7898904085159302,0.16,0
+391,Alive,neutral,0.6011250019073486,0.33,0
+392,Active World,neutral,0.7108839750289917,0.2,0
+393,Magicbricks,neutral,0.6595864295959473,0.21,0
+394,Ads 2 Book,neutral,0.8672587275505066,0.08,0
+395,Astrospeak,neutral,0.8042352795600891,0.07,0
+396,Navbharat Times,neutral,0.8669137954711914,0.04,0
+397,Longwalks App,neutral,0.8045535087585449,0.13,0
+398,Optical Illusion,positive,0.6364910006523132,0.61,2
+399,Stree 2 Collection,neutral,0.9047383069992064,0.07,0
+400,Nick Jonas,neutral,0.7850620746612549,0.19,0
+401,Sharmila Tagore,neutral,0.7059665322303772,0.23,0
+402,Ginger Water,neutral,0.8528586626052856,0.09,0
+403,Salman Khan,neutral,0.7434154748916626,0.2,0
+404,Mollywood sexual News,neutral,0.6665018200874329,-0.25,0
+405,Anupamaa,neutral,0.7477825284004211,0.06,0
+406,Vijay Verma,neutral,0.6338542103767395,0.33,0
+407,Aly Goni,neutral,0.7517592906951904,0.15,0
+408,Shah Rukh Khan,neutral,0.6100053787231445,0.37,0
+409,Passport Seva Portal Shut Down,neutral,0.5329268574714661,-0.44,0
+410,Optical Illusion,positive,0.6364910006523132,0.61,2
+411,Sudhanshu Pandey,neutral,0.8235027194023132,0.09,0
+412,New Seven Wonders of the World,neutral,0.5717592239379883,0.39,0
+413,About us,neutral,0.719754695892334,0.16,0
+414,Terms of use,neutral,0.8588443994522095,0.0,0
+415,Times Syndication Service,neutral,0.8823549747467041,0.03,0
