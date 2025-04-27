@@ -19,7 +19,9 @@ The News Analysis System is designed to analyze sentiment and classify news arti
    
 5. CSV Data for Training
    The system uses CSV files for model training, enabling easy updates and seamless integration of new data for retraining or fine-tuning.
-Technical Details
+
+**Technical Details**
+
 **1. Sentiment Analysis**
 - Model: distilbert-base-uncased-finetuned-sst-2-english
    - Purpose: Fine-tuned for binary sentiment classification (POSITIVE/NEGATIVE) on the SST-2 dataset.
@@ -73,4 +75,5 @@ Technical Details
    - For Hindi news articles, the system translates them into English using the MarianMT model, providing a more accessible version of the content.
      
 **Conclusion**
+
 The News Analysis System is a powerful tool that combines sentiment analysis, language translation, and real-time news scraping. By leveraging advanced transformer models, it provides an insightful, multi-functional system for analyzing news articles in multiple languages.
